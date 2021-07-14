@@ -1,2 +1,3 @@
 # viral
-&lt;a href"https://www.disebar.in">Berita Viral&lt;/a>
+Berita Viral : https://www.disebar.in 
+Berita Medan : https://www.kibus.net
